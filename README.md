@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rumaan-Kaisar
-- 👀 I’m interested in Reinforcement learning, Machine-Learning, Deep-Learning
+- 👀 I’m interested in Reinforcement Learning, Machine-Learning, Deep-Learning
 - 🌱 I’m currently learning above major fields of machine learning.
 - 💞️ I’m looking to collaborate on "AI", "Machine-Learning", "Deep-Learning"
 - 📫 How to reach me: rumaan.kaisar@gmail.com
